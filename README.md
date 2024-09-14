@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kareem
 - 👀 I’m interested in Coding and Web development
-- 🌱 I’m currently learning Computer Science at Mansoura university
-- 💞️ I’m looking to collaborate on Web applications projects
 - 📫 How to reach me "mailto:kareemshaaban221@gmail.com"
 
 <!---
